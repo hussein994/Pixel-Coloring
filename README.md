@@ -1,4 +1,7 @@
-# Pixel-Coloring<img width="857" alt="Screenshot 2024-03-09 at 3 27 28 AM" src="https://github.com/hussein994/Pixel-Coloring/assets/74749627/80c720dc-adb1-4c89-a968-bcde0bf7e5d5">
+# Pixel-Coloring
+Développement d'un programme en langage C qui prend une image en noir et blanc et colore les pixels autour des contours noirs. Ce projet met en œuvre des techniques de traitement d'images pour améliorer automatiquement les images. 
+
+<img width="857" alt="Screenshot 2024-03-09 at 3 27 28 AM" src="https://github.com/hussein994/Pixel-Coloring/assets/74749627/80c720dc-adb1-4c89-a968-bcde0bf7e5d5">
 <img width="823" alt="Screenshot 2024-03-09 at 3 27 38 AM" src="https://github.com/hussein994/Pixel-Coloring/assets/74749627/7a31cb2c-601e-4b8d-b24a-5597ff1ee1c2">
 <img width="818" alt="Screenshot 2024-03-09 at 3 27 51 AM" src="https://github.com/hussein994/Pixel-Coloring/assets/74749627/c8d7bd40-d617-4020-85dd-de14f460dd2d">
 
